@@ -23,13 +23,16 @@ This is a **midterm project** from our **Image Processing course**, completed by
 
 ## Repaired Photos 
 
+
 ### 1️⃣ Flipped Blocks Restoration  
 - Selected corrupted regions using mouse  
 - Flipped each ROI (region of interest) using `cv2.flip()`  
 - Masked the flipped image back into the original
 
-Before ![image](https://github.com/user-attachments/assets/3f46a43b-c042-4c13-a159-2957532aa353)
-After  ![image](https://github.com/user-attachments/assets/4b0bcf12-dc9d-47df-9f60-ffd421590e2b)
+| Before | After |
+|--------|-------|
+| ![image](https://github.com/user-attachments/assets/3f46a43b-c042-4c13-a159-2957532aa353) |   ![image](https://github.com/user-attachments/assets/4b0bcf12-dc9d-47df-9f60-ffd421590e2b) |
+
 
 ---
 
