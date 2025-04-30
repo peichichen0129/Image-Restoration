@@ -37,7 +37,7 @@ After  ![image](https://github.com/user-attachments/assets/4b0bcf12-dc9d-47df-9f
 - Inverted grayscale values  
 - Applied gamma and beta correction to restore balance
 
-Before ![image](https://github.com/user-attachments/assets/40debf33-e943-4798-b69c-4d91e49b8c18)
+Before![image](https://github.com/user-attachments/assets/40debf33-e943-4798-b69c-4d91e49b8c18)
 After  ![image](https://github.com/user-attachments/assets/00f55384-eab7-4a2b-b0f7-857bb5c1309e)
 
 
@@ -47,7 +47,7 @@ After  ![image](https://github.com/user-attachments/assets/00f55384-eab7-4a2b-b0
 - Sharpened object edges with custom filters  
 - Applied bilateral filtering to reduce noise while maintaining edges
 
-Before ![image](https://github.com/user-attachments/assets/1049f682-cb53-43a5-8e2e-529bfce12620)
+Before![image](https://github.com/user-attachments/assets/1049f682-cb53-43a5-8e2e-529bfce12620)
 After  ![image](https://github.com/user-attachments/assets/2406de65-c56b-4a71-81ac-10b9b127833d)
 
 ---
