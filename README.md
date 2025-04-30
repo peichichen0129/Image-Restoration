@@ -29,7 +29,6 @@ This is a **midterm project** from our **Image Processing course**, completed by
 - Masked the flipped image back into the original
 
 Before ![image](https://github.com/user-attachments/assets/3f46a43b-c042-4c13-a159-2957532aa353)
-
 After  ![image](https://github.com/user-attachments/assets/4b0bcf12-dc9d-47df-9f60-ffd421590e2b)
 
 ---
@@ -49,8 +48,7 @@ After  ![image](https://github.com/user-attachments/assets/00f55384-eab7-4a2b-b0
 - Applied bilateral filtering to reduce noise while maintaining edges
 
 Before ![image](https://github.com/user-attachments/assets/1049f682-cb53-43a5-8e2e-529bfce12620)
-
-After ![image](https://github.com/user-attachments/assets/2406de65-c56b-4a71-81ac-10b9b127833d)
+After  ![image](https://github.com/user-attachments/assets/2406de65-c56b-4a71-81ac-10b9b127833d)
 
 ---
 
